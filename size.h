@@ -1,0 +1,3 @@
+#define NUM_SERVERS 1
+#define NUM_CLIENTS 8
+#define NUM_CLIENTS_PER_SERVER 8
